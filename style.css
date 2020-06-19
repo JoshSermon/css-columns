@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Muli:300,900");
+
+body {
+  font-size: 1.3rem;
+  line-height: 1.65;
+  font-family: "Multi", sans-serif;
+  color: #1e1e24;
+  background-color: #fff8f0;
+  margin: 2em;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #92140c;
+  font-weight: 900;
+}

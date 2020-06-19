@@ -14,3 +14,19 @@ h1 {
   color: #92140c;
   font-weight: 900;
 }
+
+p {
+  margin-top: 0;
+}
+
+.columns {
+  /*column-count: 3;
+  column-width: 250px;*/
+  columns: 3 250px;
+  column-rule: 1px solid #92140c;
+  column-gap: 3em;
+}
+
+.intro {
+  column-span: all;
+}
